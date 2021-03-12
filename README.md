@@ -1,7 +1,7 @@
 # bestorm
-Best ORM/n
-To Run in release mode./n
-Build the app in release./n
-Open folder with .dll./n
-Open cmd/PowerShall./n
-Run dotnet BestORM.dll /n
+Best ORM
+To Run in release mode.
+Build the app in release.
+Open folder with .dll.
+Open cmd/PowerShall.
+Run dotnet BestORM.dll 
